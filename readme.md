@@ -1,0 +1,1 @@
+eval usado no input de result , logo oque voce passar no input sera executado no terminal 
